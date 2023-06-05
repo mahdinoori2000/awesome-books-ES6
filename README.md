@@ -1,1 +1,0 @@
-# awesome-books-ES6
