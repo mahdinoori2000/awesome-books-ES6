@@ -1,6 +1,6 @@
 /* eslint no-use-before-define: "off" */
 /* eslint class-methods-use-this: "off" */
-import { DateTime } from './modules/luxon.js';
+import { DateTime } from './node_modules/luxon/src/luxon.js';
 import BookCollection from './modules/book-collection.js';
 import { showList, addList, showContact } from './modules/change-navbar.js';
 
